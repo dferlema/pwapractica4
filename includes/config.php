@@ -3,7 +3,7 @@
 $host = 'localhost';
 $dbname = '01_calf';
 $username = 'root';
-$password = '';
+$password = 'Ube2025.';
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8", $username, $password);
